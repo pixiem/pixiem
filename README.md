@@ -1,6 +1,6 @@
-### Hi there 👋
-It's Me NAYEM <br/>
-A Web Developer
+### It's Me NAYEM 👋
+ <br/>
+## A Web Developer
 
 <!--
 **pixiem/pixiem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
